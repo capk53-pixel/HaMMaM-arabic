@@ -1,0 +1,7 @@
+{
+  "name": "HaMMaM Fit Hup 3",
+  "description": "تطبيق لإنشاء خطط تدريبية مخصصة باستخدام الذكاء الاصطناعي وتتبع التمارين في الجيم، مستوحى من تطبيق Built with Science.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
